@@ -4,9 +4,9 @@ Encryption/Decryption application for “Caesar cipher” with the ability to re
 ***This is a project for security course in college.***
 
 ----------
-### To download the EXE File visit this [link](http://projects.kaluaim.com/CeasarCipher/). ###
+### To download the EXE File visit this [link](http://projects.kalua.im/CaesarCipher/). ###
 
 
 ----------
 ### Screenshot ###
-![Server](http://projects.kaluaim.com/CaesarCipher/CaesarCipher-Screenshot.png)
+![Server](http://projects.kalua.im/CaesarCipher/resources/img/CaesarCipher-Screenshot.png)
