@@ -9,4 +9,4 @@ Encryption/Decryption application for “Caesar cipher” with the ability to re
 
 ----------
 ### Screenshot ###
-![Server](http://projects.kalua.im/CaesarCipher/resources/img/CaesarCipher-Screenshot.png)
+![Server](http://projects.kalua.im/CaesarCipher/assets/images/caesar-cipher-screenshot.png)
